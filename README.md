@@ -11,3 +11,8 @@ Boxy est un robot Arduino qui utilise 4 servomoteurs pour piloter deux jambes. L
 
 ## Fichiers
 Vous trouverez dans le dépôt tous les fichiers .stl pour imprimer les pièces, ainsi que deux schémas électroniques (l'un sur Tinkercad, l'autre sur Paint) pour illustrer le montage avec précision.
+
+## Schémas
+
+<img src="schéma_paint.png"></img>
+<img src="schéma_tinkercad.png"></img>
