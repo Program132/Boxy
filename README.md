@@ -1,6 +1,6 @@
-# Pinguin
+# Boxy
 
-Pinguin est un robot Arduino qui utilise 4 servomoteurs pour piloter deux jambes. L'objectif est la création d'un robot autonome, uniquement équipé d'un capteur à ultrasons pour mesurer la distance entre lui et l'obstacle en face de lui, afin de choisir une direction pour l'éviter et poursuivre son chemin.
+Boxy est un robot Arduino qui utilise 4 servomoteurs pour piloter deux jambes. L'objectif est la création d'un robot autonome, uniquement équipé d'un capteur à ultrasons pour mesurer la distance entre lui et l'obstacle en face de lui, afin de choisir une direction pour l'éviter et poursuivre son chemin.
 
 ## Composants électroniques
 - Capteur à ultrasons : HC-SR04
