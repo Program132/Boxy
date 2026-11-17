@@ -16,3 +16,11 @@ Vous trouverez dans le dépôt tous les fichiers .stl pour imprimer les pièces,
 
 <img src="schéma_paint.png"></img>
 <img src="schéma_tinkercad.png"></img>
+
+# Aperçu 3D
+
+Vous trouverez ci-dessous des aperçus du robot finale assemblé :
+
+<img src="robot.png"></img>
+<img src="tete1.png"></img>
+<img src="tete2.png"></img>
